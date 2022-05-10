@@ -1,9 +1,9 @@
-<h1> Hi! My name is Allan!</h1>
+  <h1> Hi! My name is Allan!</h1>
 
 <div>
   <a href="https://github.com/AllazaoAllado">
   <img align="center" height="180em"    src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-   <img align="center" height="180em"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllazaoAllado&layout=compact&langs_count=7&theme=react"/>
+   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllazaoAllado&layout=compact&langs_count=7&theme=react"/>
 </div>
  <br>
 <div  align="left"> 
