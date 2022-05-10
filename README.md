@@ -1,6 +1,5 @@
 ### Opa! Eu sou o Allan 👋
-- 🔭 Hoje trabalho com HTML5
-- 🌱 Estudando HTML5
+
 <div align="center">
 <a href="https://github.com/AllazaoAllado">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
