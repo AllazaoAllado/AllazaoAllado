@@ -1,5 +1,10 @@
   <h1> Hi! My name is Allan!</h1>
-
+  <ul>
+  <li>A beginner in Development's World;
+  <li>Lover of games and studies;  
+  <li>Studying Web Development;  
+  </ul><br>
+  <p><strong>A little about My Progress:</strong></p>
 <div>
   <a href="https://github.com/AllazaoAllado">
   <img align="center" height="180em"    src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,6 +17,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+  
   <hr>
   <a href="https://instagram.com/allan_cordeirooo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="mailto:allanv985@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
