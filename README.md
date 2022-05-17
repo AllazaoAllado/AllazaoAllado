@@ -4,7 +4,7 @@
   <li>Lover of games and studies;  
   <li>Studying Web Development;  
   </ul><br>
-  <p><strong>A little about My Progress:</strong></p>
+  <p><strong>My Progress:</strong></p>
 <div>
   <a href="https://github.com/AllazaoAllado">
   <img align="center" height="180em"    src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
