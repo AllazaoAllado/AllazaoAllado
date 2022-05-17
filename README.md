@@ -7,8 +7,8 @@
   <p><strong>My Progress:</strong></p>
 <div>
   <a href="https://github.com/AllazaoAllado">
-  <img align="center" height="180em"    src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllazaoAllado&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="180em"    src="https://github-readme-stats.vercel.app/api?username=AllazaoAllado&show_icons=true&theme=highcontrast&count_private=true"/>
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllazaoAllado&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  <br>
 <div  align="left"> 
